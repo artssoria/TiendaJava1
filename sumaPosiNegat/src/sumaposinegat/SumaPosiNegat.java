@@ -19,6 +19,7 @@ public class SumaPosiNegat {
             System.out.println("El número es positivo");
         }else{
             System.out.println("El número es negativo");
+            
         }
     
 }}
