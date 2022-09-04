@@ -27,8 +27,6 @@ public class Tienda {
                     if(ventas[k] >= 2000){
                         System.out.println("$"+ventas[k]);
                     total++;
-                       
-                   
                     }
                      k++;
                    
