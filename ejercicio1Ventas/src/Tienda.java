@@ -28,6 +28,7 @@ public class Tienda {
                         System.out.println("$"+ventas[k]);
                     total++;
                        
+                   
                     }
                      k++;
                    
